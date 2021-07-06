@@ -36,5 +36,5 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Criado Por
 
-[<img src="https://avatars.githubusercontent.com/u/66399640?v=4" width="75px;"/>](https://github.com/DevKleber) <br />
+[<img src="https://avatars.githubusercontent.com/u/66399640?v=4" width="175px;"/>](https://github.com/DevKleber) <br />
 [Wagner Barboza](https://github.com/wcfx)
