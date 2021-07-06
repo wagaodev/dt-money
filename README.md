@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="https://imgur.com/h49kn3y" width="300px" />
+  <img alt="dtmoney" title="dtmoney" src="https://i.imgur.com/NATwcqA.png" width="300px" />
 </h1>
 
 <p align="center">
   <img alt="dashboard" src=".github/dashboard.png" width="100%">
-  <img alt="cadastrar-transacao" src="https://imgur.com/NATwcqA" width="100%">
+  <img alt="cadastrar-transacao" src="https://i.imgur.com/NATwcqA.png" width="100%">
 </p>
 
 <br/>
@@ -34,4 +34,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Por Wagner Barboza
+Por Wagner Barboza Goulart
