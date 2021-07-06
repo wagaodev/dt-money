@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="https://i.imgur.com/EvoTc5j.png" width="200px" />
+  <img alt="dtmoney" title="dtmoney" src="https://i.imgur.com/EvoTc5j.png" width="300px" />
 </h1>
 
 <p align="center">
