@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="https://i.imgur.com/NATwcqA.png" width="300px" />
+  <img alt="dtmoney" title="dtmoney" src="https://i.imgur.com/EvoTc5j.png" width="200px" />
 </h1>
 
 <p align="center">
-  <img alt="dashboard" src=".github/dashboard.png" width="100%">
+  <img alt="dashboard" src="https://i.imgur.com/h49kn3y.png" width="100%">
   <img alt="cadastrar-transacao" src="https://i.imgur.com/NATwcqA.png" width="100%">
 </p>
 
@@ -34,4 +34,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Por Wagner Barboza Goulart
+## Criado Por
+
+[<img src="https://avatars.githubusercontent.com/u/66399640?v=4" width="75px;"/>](https://github.com/DevKleber) <br />
+[Wagner Barboza](https://github.com/wcfx)
