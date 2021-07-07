@@ -46,9 +46,7 @@ export const Container = styled.form`
       filter: brightness(0.9);
     }
   }
-  .react-modal-close {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
+  
 `;
+
+

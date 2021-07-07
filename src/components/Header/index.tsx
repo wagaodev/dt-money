@@ -6,14 +6,14 @@ interface HeaderProps {
   onOpenNewTransactionModal: () => void;
 }
 
-export function Header({ onOpenNewTransactionModal } : HeaderProps) {
-
+export function Header({ onOpenNewTransactionModal }: HeaderProps) {
   return (
     <Container>
       <Content>
         <img src={logoImg} alt="logo Dt Money" />
-        <button type="submit" onClick={onOpenNewTransactionModal}>Nova Transação</button>
-       
+        <button type="submit" onClick={onOpenNewTransactionModal}>
+          Nova Transação
+        </button>
       </Content>
     </Container>
   );
