@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="./.github/logo.svg" width="220px" />
+  <img alt="dtmoney" title="dtmoney" src="https://i.imgur.com/OWaleRK.png" width="380px" />
 </h1>
 
 <p align="center">
-  <img alt="dashboard" src=".github/dashboard.png" width="100%">
-  <img alt="cadastrar-transacao" src=".github/cadastrar-transacao.png" width="100%">
+  <img alt="dashboard" src="https://i.imgur.com/h49kn3y.png" width="100%">
+  <img alt="cadastrar-transacao" src="https://i.imgur.com/NATwcqA.png" width="100%">
 </p>
 
 <br/>
@@ -26,7 +26,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O dtmoney é uma aplicação de controle financeiro com a mesma ideia que o [dev.finances](https://github.com/FelipeBrenner/maratona-discover-01-devfinances), porém com tecnologias e recursos estudados e utilizados mais avançados, bibliotecas open source desenvolvidas pela comunidade. Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nela é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+O dtmoney é uma aplicação de controle financeiro com tecnologias e recursos avançados e bibliotecas open source desenvolvidas pela comunidade. Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nela é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
 ## 🔖 Layout
 
@@ -34,4 +34,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
-Por Felipe Brenner
+## Criado Por
+
+[<img src="https://avatars.githubusercontent.com/u/66399640?v=4" width="175px;"/>](https://github.com/DevKleber) <br />
+[Wagner Barboza](https://github.com/wcfx)
