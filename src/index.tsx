@@ -13,7 +13,7 @@ createServer({
       transactions: [
         {
           id: 1,
-          title: "TED JBQ Global",
+          title: "Pagamento de salário",
           type: "deposit",
           category: "Dev",
           amount: 8000,
@@ -21,10 +21,10 @@ createServer({
         },
         {
           id: 2,
-          title: "Nitro 5",
+          title: "Monitor 32 polegadas",
           type: "withdraw",
           category: "Tech",
-          amount: 4400,
+          amount: 1999,
           createdAt: new Date("2021-07-07 11:00:00"),
         },
       ],
